@@ -1,0 +1,1 @@
+geoapify_key="8c47425c6bc44fab879f915ec9cbe534"
