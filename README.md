@@ -24,7 +24,7 @@ and temperatures can be viewed by clicking and hovering over the map points.
 
 - An itinerary is created based on four lat and long points that are on the same route. The points are matched with cities using geoapify and a map visual is created to view the travel route.
 
-	![alt text](https://github.com/mabulhassan/mabulhassan/World_Weather_Analysis/blob/main/Vacation_itinerary/WeatherPy_travel_map.png "travel map")
+	![alt text](https://github.com/mabulhassan/World_Weather_Analysis/blob/main/Vacation_itinerary/WeatherPy_travel_map.png "travel map")
 
 	
 ## Summary
