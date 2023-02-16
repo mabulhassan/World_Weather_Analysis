@@ -18,9 +18,9 @@ Random latitudes and longitudes were chosen as input to determine the cities ana
 hotel data for the cities selected by matching lng and lat to the nearest hotel. The information was placed on a map using goeviews to visualize the locations and create points where hotel information, city
 and temperatures can be viewed by clicking and hovering over the map points.
 
-	![alt text](https://github.com/mabulhassan/Pewlett-Hackard-Analysis/blob/main/WeatherPy_vacation_map.png "vacation map")
+	![alt text](https://github.com/mabulhassan/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png "vacation map")
 
-###Travel Itinerary Map
+### Travel Itinerary Map
 
 - An itinerary is created based on four lat and long points that are on the same route. The points are matched with cities using geoapify and a map visual is created to view the travel route.
 
